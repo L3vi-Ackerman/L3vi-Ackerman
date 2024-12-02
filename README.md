@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Biplav Raj Chitrakar 👋</h1>
 <p align="center">
-  A <b>Full Stack Developer</b> 🛠️ and learner 📘 from Nepal.
+  A <b>Full Stack Developer</b> 🛠️ and learner 📘 from Kathmandu, Nepal.
 </p>
 
 ---
