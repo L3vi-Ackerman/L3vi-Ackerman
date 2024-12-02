@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Biplav Raj Chitrakar 👋</h1>
+<p align="center">
+  A <b>Full Stack Developer</b> 🛠️ and learner 📘 from Nepal.
+</p>
 
-<!--
-**L3vi-Ackerman/L3vi-Ackerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills & Interests
+- ⚙️ Specializing in **RESTful APIs** and backend development.
+- 🌱 Currently learning **Redux** for state management and exploring real-time web apps with **Socket.io**.
+- 💻 Proficient with **React**, **Node.js**, **MongoDB**, and authentication with **JWT**.
+- 💡 Exploring data visualization with **Chart.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- 🛒 **E-commerce API**: Scalable backend with user authentication and cart management.
+- 📊 **Expense Tracker**: Budget management and real-time notifications.
+- 📖 **Blog Platform**: Dynamic post creation using the **MERN** stack.
+
+---
+
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biplav-chitrakar&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplav-chitrakar&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/biplav-chitrakar/)
+- 📧 [Email](mailto:biplav2059@gmail.com)
+
+---
+
+<p align="center">
+  Profile Views: <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views">
+</p>
