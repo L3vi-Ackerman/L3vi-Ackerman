@@ -33,7 +33,3 @@
 - 📧 [Email](mailto:biplav2059@gmail.com)
 
 ---
-
-<p align="center">
-  Profile Views: <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views">
-</p>
