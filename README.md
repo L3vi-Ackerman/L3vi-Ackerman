@@ -22,8 +22,8 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biplav-chitrakar&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplav-chitrakar&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L3vi-Ackerman&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3vi-Ackerman&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
