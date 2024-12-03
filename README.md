@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Biplav Raj Chitrakar 👋</h1>
-<p align="center">
+<h1 align="left">Hi there, I'm Biplav Raj Chitrakar 👋</h1>
+<p align="left">
   A <b>Full Stack Developer</b> 🛠️ and learner 📘 from Kathmandu, Nepal.
 </p>
 
