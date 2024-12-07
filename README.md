@@ -7,7 +7,7 @@
 
 ### 🛠 Skills & Interests
 - ⚙️ Specializing in **RESTful APIs** and backend development.
-- 🌱 Currently learning **Redux** for state management and exploring real-time web apps with **Socket.io**.
+- 🌱 Currently learning **Django** for back end development.
 - 💻 Proficient with **React**, **Node.js**, **MongoDB**, and authentication with **JWT**.
 - 💡 Exploring data visualization with **Chart.js**.
 
