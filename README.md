@@ -17,7 +17,7 @@
 - 🛒 **E-commerce API**: Scalable backend with user authentication and cart management.
 - 📊 **Expense Tracker**: Budget management and real-time notifications.
 - 📖 **Blog Platform**: Dynamic post creation using the **MERN** stack.
-
+- 🔄 **Load More Products**: React app that loads products dynamically from the DummyJSON API with a "Load More" feature and responsive design.
 ---
 
 ### 🏆 GitHub Stats
