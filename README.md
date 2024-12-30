@@ -6,18 +6,32 @@
 ---
 
 ### 🛠 Skills & Interests
-- ⚙️ Specializing in **RESTful APIs** and backend development.
-- 🌱 Currently learning **Django** for back end development.
-- 💻 Proficient with **React**, **Node.js**, **MongoDB**, and authentication with **JWT**.
-- 💡 Exploring data visualization with **Chart.js**.
+
+#### Frontend Development
+- ⚛️ **React**: Building dynamic UIs with reusable components.
+- 🌐 **React Router**: For efficient routing in single-page applications.
+- ⚡ **Lazy Loading**: Optimizing performance by loading components as needed.
+- 🌟 **State Management**: Experienced with **useContext API** and exploring **Redux**.
+
+#### Backend Development
+- 🛠️ **Node.js**: Developing scalable backend services.
+- 🔒 **JWT Authentication**: Secure user authentication.
+- 🌐 **RESTful APIs**: Designing robust API endpoints.
+- 🗃️ **MongoDB & SQL**: Managing data with NoSQL and relational databases.
+- 📊 **Morgan**: Middleware for logging HTTP requests.
+
+#### DevOps & Tools
+- 💻 **GitHub Actions**: CI/CD pipelines for automated workflows.
+- 🔧 Version Control with **Git**: Ensuring collaborative and efficient code management.
 
 ---
 
 ### 🚀 Projects
-- 🛒 **E-commerce API**: Scalable backend with user authentication and cart management.
-- 📊 **Expense Tracker**: Budget management and real-time notifications.
-- 📖 **Blog Platform**: Dynamic post creation using the **MERN** stack.
-- 🔄 **Load More Products**: React app that loads products dynamically from the DummyJSON API with a "Load More" feature and responsive design.
+- 🛒 **E-commerce API**: Scalable backend with user authentication, product catalog, and cart management.
+- 📊 **Expense Tracker**: Budget management with real-time notifications and data visualization.
+- 📖 **Blog Platform**: Dynamic post creation and management using the **MERN** stack.
+- 🔄 **Load More Products**: React app featuring a "Load More" functionality for fetching products dynamically from the DummyJSON API, with responsive design.
+
 ---
 
 ### 🏆 GitHub Stats
@@ -31,5 +45,3 @@
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/biplav-chitrakar/)
 - 📧 [Email](mailto:biplav2059@gmail.com)
-
----
