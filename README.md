@@ -11,7 +11,7 @@
 - ⚛️ **React**: Building dynamic UIs with reusable components.
 - 🌐 **React Router**: For efficient routing in single-page applications.
 - ⚡ **Lazy Loading**: Optimizing performance by loading components as needed.
-- 🌟 **State Management**: Experienced with **useContext API** and exploring **Redux**.
+- 🌟 **State Management**: Experienced with **useContext API** and **Redux**.
 
 #### Backend Development
 - 🛠️ **Node.js**: Developing scalable backend services.
