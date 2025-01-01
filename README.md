@@ -5,7 +5,7 @@
 
 ---
 ## 👋 About Me
-- 🎓 Final-year student at **Thapathali Engineering College**
+- 🎓 Final-year student at **I.O.E. Thapathali Engineering College**
 - 💻 Passionate **Full Stack Developer (MERN Stack)** with experience in building web applications
 - 📚 Currently learning advanced MERN concepts and deploying full-stack projects
 ---
