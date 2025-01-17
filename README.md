@@ -1,33 +1,26 @@
-<h1 align="left">Hi there, I'm Biplav Raj Chitrakar 👋</h1>
-<p align="left">
-  A <b>Full Stack Developer</b> 🛠️ and learner 📘 from Kathmandu, Nepal.
-</p>
+# Hi there, I'm Biplav Raj Chitrakar 👋  
+A Full Stack Developer 🛠️ and learner 📘 from Kathmandu, Nepal.  
 
----
-## 👋 About Me
-- 🎓 Final-year student at **I.O.E. Thapathali Campus**
-- 💻 Passionate **Full Stack Developer (MERN Stack)** with experience in building web applications
-- 📚 Currently learning advanced MERN concepts and deploying full-stack projects
----
+## 👋 About Me  
+🎓 Final-year student at I.O.E. Thapathali Campus  
+💻 Passionate Full Stack Developer (MERN Stack) with experience in building web applications  
+📚 Currently learning **FastAPI**, and **Django** to broaden backend development skills  
 
-### 🛠 Skills & Interests
+## 🛠 Skills & Interests  
 
-#### Frontend Development
-- ⚛️ **React**: Building dynamic UIs with reusable components.
-- 🌐 **React Router**: For efficient routing in single-page applications.
-- ⚡ **Lazy Loading**: Optimizing performance by loading components as needed.
-- 🌟 **State Management**: Experienced with **useContext API** and **Redux**.
+### Frontend Development  
+⚛️ **React**: Building dynamic UIs with reusable components.  
+🌐 **React Router**: For efficient routing in single-page applications.  
+⚡ **Lazy Loading**: Optimizing performance by loading components as needed.  
+🌟 **State Management**: Experienced with useContext API and Redux.  
 
-#### Backend Development
-- 🛠️ **Node.js**: Developing scalable backend services.
-- 🔒 **JWT Authentication**: Secure user authentication.
-- 🌐 **RESTful APIs**: Designing robust API endpoints.
-- 🗃️ **MongoDB & SQL**: Managing data with NoSQL and relational databases.
-- 📊 **Morgan**: Middleware for logging HTTP requests.
-
-#### DevOps & Tools
-- 💻 **GitHub Actions**: CI/CD pipelines for automated workflows.
-- 🔧 Version Control with **Git**: Ensuring collaborative and efficient code management.
+### Backend Development  
+🛠️ **Node.js**: Developing scalable backend services.  
+🔒 **JWT Authentication**: Secure user authentication.  
+🌐 **RESTful APIs**: Designing robust API endpoints.  
+🗃️ **MongoDB & SQL**: Managing data with NoSQL and relational databases.  
+📊 **Morgan**: Middleware for logging HTTP requests.  
+🌐 **Currently Learning**: FastAPI and Django for efficient and scalable web application development.  
 
 ---
 
