@@ -2,26 +2,25 @@
 A Full Stack Developer 🛠️ and learner 📘 from Kathmandu, Nepal.  
 
 ## 👋 About Me  
-🎓 Final-year student at I.O.E. Thapathali Campus  
+🎓 Bachelor's graduate from I.O.E. Thapathali Campus  
 💻 Passionate Full Stack Developer (MERN Stack) with experience in building web applications  
 📚 Currently learning **FastAPI**, and **Django** to broaden backend development skills  
 
 ## 🛠 Skills & Interests  
-
 ### Frontend Development  
-⚛️ **React**: Building dynamic UIs with reusable components.  
-🌐 **React Router**: For efficient routing in single-page applications.  
-⚡ **Lazy Loading**: Optimizing performance by loading components as needed.  
-🌟 **State Management**: Experienced with useContext API and Redux.  
+⚛️ **React**  
+⚡ **Next.js**  
+🔷 **TypeScript**  
+🔄 **TanStack Query**  
+🌐 **React Router**  
+⚡ **Lazy Loading**  
+🌟 **State Management**: useContext API and Redux  
 
 ### Backend Development  
-🛠️ **Node.js**: Developing scalable backend services.  
-🔒 **JWT Authentication**: Secure user authentication.  
-🌐 **RESTful APIs**: Designing robust API endpoints.  
-🗃️ **MongoDB & SQL**: Managing data with NoSQL and relational databases.  
-📊 **Morgan**: Middleware for logging HTTP requests.  
-🌐 **Currently Learning**: FastAPI and Django for efficient and scalable web application development.  
-
+🚀 **Node.js & Express**
+🍃 **MongoDB**
+🔧 **Mongoose**  
+🔐 **Authentication**
 ---
 
 ### 🚀 Projects
